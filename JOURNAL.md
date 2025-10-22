@@ -6,11 +6,25 @@
   ==================================================================
 -->
 
-## 10/22/2025 - Planning Completed And Schematic Started !  
+## 10/22/2025 3:13 PM - Planning Completed And Schematic Started !  
 
 DATE = 22 OCTOBER 
 TIME = 3:09 p.m
 
 First I started with this work when i was out of station with just my mobile device , no compouter i can really work upon , whuke travelling , i got an idea of plannin for my next project so i turned on my mobile and made a BOM first ( Roughly ) and then the GitHub Repo which couldn'e be saved so i recreated it again and my journey was completed while doing this . Starting the Schematic Work Now ! ![BOM.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--03af24e8745b8d58d542552b4beac84fb3409909/BOM.PNG)
+  
+
+## 10/22/2025 3:38 PM - Finished The Schematic Work   
+
+
+Date = 22 OCTOBER
+
+Tine = 3:40
+
+As I did the BOM finalization a while ago , I also Just Right Now Completed my Scehmatic Work . I Got to know about net tags a lil later so i did all my wiring with the normal green wires in EasyEDA ( I Am A Beginner ) . So , Next Will Be My PCB Routing work . Hope To Finish It Till 8 PM.![MP3 SCHEMATIC.PNG] 
+
+![schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f342a02cdaecdf68e5630d52bc3a75e5a437c4af/schematic.png)
+![schematic.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c1c101f695fe0909dda9d4b1cc7864bc367f54e8/schematic.png)
+
   
 
