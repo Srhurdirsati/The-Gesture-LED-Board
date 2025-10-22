@@ -12,4 +12,11 @@ The Very Next Sted I  Was To Do Was To Deal With My GitHub Repo Thing So I Am Cu
 
 After That I have decided to work on the schematic work for the PCB and then the routing and at last the 3D Printing Work . 
 
+## Schematic Finished 
+
+This was not tough for mr but a lot of timetaking as i am a veryyyy much beginner in these hardware things especially the 3D Designing and also my BRICK with i5 and igpu . 
+
+<img width="718" height="291" alt="image" src="https://github.com/user-attachments/assets/5f31765b-8363-4283-a585-c03abd1a2ae7" />
+
+
 
