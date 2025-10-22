@@ -28,3 +28,8 @@ As I did the BOM finalization a while ago , I also Just Right Now Completed my S
 
   
 
+## 10/22/2025 11 PM - Routed The PCB Completely 😒  
+
+Yoo ! So Far I've completely routed my PCB. This Was not tough at all but my pc took a lot of time to just move components . Also i am veryyy new so it took a lot more time . Next thing will be 3d designing and at last coding for my microcontroller. ![Routing.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9a337cf87ef330e53bf78872d41b58e81a0af746/Routing.png)
+  
+
