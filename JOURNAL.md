@@ -33,3 +33,14 @@ As I did the BOM finalization a while ago , I also Just Right Now Completed my S
 Yoo ! So Far I've completely routed my PCB. This Was not tough at all but my pc took a lot of time to just move components . Also i am veryyy new so it took a lot more time . Next thing will be 3d designing and at last coding for my microcontroller. ![Routing.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9a337cf87ef330e53bf78872d41b58e81a0af746/Routing.png)
   
 
+## 10/23/2025 - COMPLETED ALL THE CAD WORK AND THE CODE WORK . 😎  
+
+Back Again !
+The last day wasn't tough but I think today was , i started with designing the base part first which was a lil easy but adding and moving the text took me a lot of time as i was kinda new soo .... Also coding part was easy too. ![Capture 2.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--308f2558fabe08cb4e1db079fadeb880656d81e6/Capture%202.PNG)
+![Capture.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--93a985fa0ea54957aeb5421fbd5b20ace1e1bd10/Capture.PNG)
+![CAD.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--3712bf691596bcd5988dc362730803a1e79564d6/CAD.PNG)
+
+
+CAD - 4 hours
+CODE- 1.2 Hours  
+
