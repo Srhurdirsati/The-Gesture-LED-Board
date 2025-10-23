@@ -19,4 +19,23 @@ This was not tough for mr but a lot of timetaking as i am a veryyyy much beginne
 <img width="718" height="291" alt="image" src="https://github.com/user-attachments/assets/5f31765b-8363-4283-a585-c03abd1a2ae7" />
 
 
+## CAD AND CODE FINISHED
+
+Cad was a lil diff for me as i am new but the code was easy as i'm experienced with coding . This still took a while to make on my pc but i think its fine for a begginer for me . 
+
+<img width="456" height="342" alt="image" src="https://github.com/user-attachments/assets/8df051f2-af19-4ca7-9d89-61a6c6122abf" />
+
+<img width="493" height="299" alt="image" src="https://github.com/user-attachments/assets/c7a26789-37a5-4e74-a041-c89f32e9b840" />
+
+<img width="493" height="299" alt="image" src="https://github.com/user-attachments/assets/e19b15b2-6aba-4b6a-887f-72b0902f9c1c" />
+
+
+
+## Total Price 
+
+Its somethink like 89 dollars with everything involved . Still i need atleast 83 Dollars for JLCPCB AND a CABLE 
+
+<img width="845" height="693" alt="image" src="https://github.com/user-attachments/assets/270fd342-ea1f-48cb-9fc1-3b0c2c3e855a" />
+
+<img width="1212" height="436" alt="image" src="https://github.com/user-attachments/assets/203d11f9-9173-4e79-bcad-3594aa35dbda" />
 
