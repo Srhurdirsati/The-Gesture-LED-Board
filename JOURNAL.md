@@ -46,6 +46,6 @@ CODE- 1.2 Hours
 
 ## 10/23/2025 11:19 PM - GitHub Completed .   
 
-The GitHub Work Is Completed too , i just needed to upload all the files that were ready inside my workspace folder . Did It Too , Now Shipping The Project![GitHub.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9ea9dc6778b11a2919a10c32e8151489cf2d85d/GitHub.PNG)
+The GitHub Work Is Completed too , i just needed to upload all the files that were ready inside my workspace folder , All the journals were automatically added in by the blueprint site and also i have fifished the readme work time to time so i think now i am fine and no improvements needed . . Did It Too , Now Shipping The Project![GitHub.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9ea9dc6778b11a2919a10c32e8151489cf2d85d/GitHub.PNG)
   
 
