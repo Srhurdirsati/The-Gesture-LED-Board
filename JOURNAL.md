@@ -60,3 +60,10 @@ CODE- 1.2 Hours
 The GitHub Work Is Completed too , i just needed to upload all the files that were ready inside my workspace folder , All the journals were automatically added in by the blueprint site and also i have fifished the readme work time to time so i think now i am fine and no improvements needed . . Did It Too , Now Shipping The Project![GitHub.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9ea9dc6778b11a2919a10c32e8151489cf2d85d/GitHub.PNG)
   
 
+## 11/5/2025 - Done All The Commented And Required Changes For This Project  
+
+I was commented many times on this project to expand the journals which i just did [technical_.] and included all the PCB files in my repo [Kai Periera] along with the PCBA which can be made as pcb project too . This was my 2nd project in my lifetime so it was a bit confusing for me and also i'm new in HCB so I didn't knew much about it but now after this , i m quite familiar with the working and projects so i will take care for all the projects from now on and try to give my best 
+
+As I did all the commented corrections and now I'm hoping just for a clean approval for this project . I started this a quite ago but summiting it a lil late .![JLC OF WAVU](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU1MywicHVyIjoiYmxvYl9pZCJ9fQ==--a5c98d0d7b9f5bb80de809111f5ca13b533c7664/JLC%20OF%20WAVU.PNG)
+  
+
