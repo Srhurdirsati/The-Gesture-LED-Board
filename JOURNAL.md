@@ -36,7 +36,9 @@ Yoo ! So Far I've completely routed my PCB. This Was not tough at all but my pc 
 ## 10/23/2025 11:00 PM - COMPLETED ALL THE CAD WORK AND THE CODE WORK . 😎  
 
 Back Again !
-Yesterday , i was done finishing the schematic work and finished it too along with the plannig done already . Now i took my notebook and made a rough sketch of what i was trying to built in 3d invluding the case and the final look , i started with the base part and went forwqard to make the top , the base part was a lil diff to make as i included some text which i didn't knew how to move and control so tooko some yt lessons and made it final in one go 
+Yesterday , i was done finishing the schematic work and finished it too along with the plannig done already . Now i took my notebook and made a rough sketch of what i was trying to built in 3d invluding the case and the final look , i started with the base part and went forwqard to make the top , the base part was a lil diff to make as i included some text which i didn't knew how to move and control so tooko some yt lessons and made it final in one go .
+
+After doing this , i wanted to make the code for this to run too which was easy for me as i was kinda familiar with the code stuff but this time , it took a lil more time than expected due to my foolishness . MB :/ , but finally did it too . This was the most fun day of this project also most working. 
 
  ![Capture 2.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--308f2558fabe08cb4e1db079fadeb880656d81e6/Capture%202.PNG)
 ![Capture.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--93a985fa0ea54957aeb5421fbd5b20ace1e1bd10/Capture.PNG)
