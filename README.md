@@ -37,5 +37,6 @@ Its somethink like 89 dollars with everything involved . Still i need atleast 83
 
 <img width="845" height="693" alt="image" src="https://github.com/user-attachments/assets/270fd342-ea1f-48cb-9fc1-3b0c2c3e855a" />
 
-<img width="1212" height="436" alt="image" src="https://github.com/user-attachments/assets/203d11f9-9173-4e79-bcad-3594aa35dbda" />
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/65263884-5d19-4291-9aea-104d364a4a14" />
+
 
