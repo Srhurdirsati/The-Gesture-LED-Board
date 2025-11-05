@@ -11,7 +11,12 @@
 DATE = 22 OCTOBER 
 TIME = 3:09 p.m
 
-First I started with this work when i was out of station with just my mobile device , no compouter i can really work upon , whuke travelling , i got an idea of plannin for my next project so i turned on my mobile and made a BOM first ( Roughly ) and then the GitHub Repo which couldn'e be saved so i recreated it again and my journey was completed while doing this . Starting the Schematic Work Now ! ![BOM.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--03af24e8745b8d58d542552b4beac84fb3409909/BOM.PNG)
+This ided struck me when i was seeking openai for some new project ideas for my setup which included my own PCB and Code along with My Custom 3D Printed case . This was a lil tough to find but a small chatgpt tweak made me do it easily.
+
+First I started with this work when i was out of station with just my mobile device , no compouter i can really work upon , whuke travelling , i got an idea of plannin for my next project so i turned on my mobile and made a BOM first ( Roughly ) and then the GitHub Repo which couldn'e be saved so i recreated it again and my journey was completed while doing this . Starting the Schematic Work Now !
+I used a lil bit of chatgpt and some tutorinals to gather the BOM and the image uploaded also is made from ChatGPT, Ill inform about Any changes in the next journal
+
+ ![BOM.PNG](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--03af24e8745b8d58d542552b4beac84fb3409909/BOM.PNG)
   
 
 ## 10/22/2025 3:38 PM - Finished The Schematic Work   
