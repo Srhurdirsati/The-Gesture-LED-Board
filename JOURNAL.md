@@ -30,7 +30,9 @@ As I did the BOM finalization a while ago , I also Just Right Now Completed my S
 
 ## 10/22/2025 11 PM - Routed The PCB Completely 😒  
 
-Yoo ! So Far I've completely routed my PCB. This Was not tough at all but my pc took a lot of time to just move components . Also i am veryyy new so it took a lot more time . Next thing will be 3d designing and at last coding for my microcontroller. ![Routing.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9a337cf87ef330e53bf78872d41b58e81a0af746/Routing.png)
+Yoo guys , routing the pcb will be my next part of my work in this project , this was a lil ldifficult as i was new to easyeda and these softwares so i didn't knew how to route this , i took help from ChatGPT for this and a lil from my brother and YT . This made me complete my routing part for the PCB work and now the PCB work is finished and I'll move on to 3D CAD modelling in the next part . 
+
+![Routing.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9a337cf87ef330e53bf78872d41b58e81a0af746/Routing.png)
   
 
 ## 10/23/2025 11:00 PM - COMPLETED ALL THE CAD WORK AND THE CODE WORK . 😎  
