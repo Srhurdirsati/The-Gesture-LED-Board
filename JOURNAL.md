@@ -67,3 +67,9 @@ I was commented many times on this project to expand the journals which i just d
 As I did all the commented corrections and now I'm hoping just for a clean approval for this project . I started this a quite ago but summiting it a lil late .![JLC OF WAVU](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU1MywicHVyIjoiYmxvYl9pZCJ9fQ==--a5c98d0d7b9f5bb80de809111f5ca13b533c7664/JLC%20OF%20WAVU.PNG)
   
 
+## 11/7/2025 - Made The Project As PCB From PCBA   
+
+This change was recommended by one of the reviewers to make my project to use pcba to pcb , I thought that it will be the same price as i also had to play the pcsc charge for delivery fee but it made it a much cheaper now , from $66 to $42 , i think now this will be the final update of this project . ![LLCPCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTExMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3bc6b2156f03119edab3b13ce65123d045783cc/LLCPCB.PNG)
+![PICO](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTExMSwicHVyIjoiYmxvYl9pZCJ9fQ==--a519a817f18bd2a5797a0c64fcfcb41a897e9f02/PICO.PNG)![LCSC](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--f6781a864daccd35d6e72af97323c1a217255ccb/LCSC.PNG)
+  
+
